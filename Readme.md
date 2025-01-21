@@ -86,7 +86,7 @@ By default, the processed data is saved as `extracted_resume_data.xlsx`. You can
 -   **API Key Errors**: Make sure your OpenAI API key is valid and has sufficient quota.
 
 ## Future Improvements
-- **Improve batch processing**:  Currently due to token limits of GPT4, batch processing over 5 resumes, might case issues. Various methods can be implemented to help improve this, such as asychnronous calls, multiple parallel API calls etc.
+- **Improve batch processing**:  Currently due to token limits of GPT4, batch processing over 5 resumes, might cause issues. Various methods can be implemented to help improve this, such as asychnronous calls, multiple parallel API calls etc.
 - **Functionality**: The functionality can be generalized for different job description and adding job match scores, which will help streamline the hiring process further for different roles. 
 ## Author
 
