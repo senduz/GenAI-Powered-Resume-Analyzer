@@ -1,4 +1,4 @@
-﻿# GenAI Powerwed Resume Analyzer
+﻿# GenAI Powered Resume Analyzer
 
 ## Overview
 This tool helps streamline the resume screening process using Generative AI to extract contextual data from a database of resumes and export all the relevant data in a cleanly processed excel sheet. It uses advanced techniques to parse, extract, and evaluate key information from resumes, enabling efficient and scalable pre-analysis for shortlisting candidates. The script uses `gdown` to download files, `pdfplumber` to extract text from PDFs, and OpenAI's GPT-4 model to analyze and summarize the extracted content. The processed data is then saved to an Excel file for further use.
