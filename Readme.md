@@ -33,6 +33,7 @@ This tool helps streamline the resume screening process using Generative AI to e
     ```bash
     Enter the Google Drive folder link:
     ```
+    Here is a sample google drive link used to obtain the output [Sample Resumes](https://drive.google.com/drive/folders/1XssD2tFQ_oQH1cm_Gjzcj8-NS5rIVoSI?usp=drive_link)
 - The processed data will be saved as an Excel file (`extracted_resume_data.xlsx`) in the project directory.
 
 ## Script Details
